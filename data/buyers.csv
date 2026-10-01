@@ -1,0 +1,13 @@
+buyer_id,buyer_name,country,category,buyer_type,products_wanted,min_qty_kg,max_qty_kg,packaging_preference,certifications_wanted
+B001,Sunrise Foods Distribution,USA,Processed Fruit,Distributor,mango pulp alphonso totapuri frozen aseptic drums puree,1000,20000,aseptic drums frozen drums,FDA registered; lab report
+B002,Pacific Beverage Ingredients,USA,Processed Fruit,Manufacturer,fruit juice concentrate pulp puree guava mango pineapple,5000,50000,drums bag in box,FDA registered; HACCP
+B003,Golden Tropics Importers,USA,Processed Fruit,Importer,canned fruit slices syrup tin mango lychee pineapple,2000,30000,tins cartons,FDA registered; process filing
+B004,Maple Bakery Supply,USA,Processed Fruit,Manufacturer,fruit puree pulp for bakery fillings and desserts frozen,500,10000,frozen pails drums,FDA registered; lab report
+B005,Saffron Route Spices,USA,Spices,Distributor,turmeric cumin coriander chilli whole and powder,500,15000,25 kg bags retail packs,FDA registered; lab report
+B006,Heritage Spice Co,USA,Spices,Retailer,garam masala blended spice mix retail packs cardamom pepper,200,5000,retail packs pouches,FDA registered; allergen labeling
+B007,Harvest Basket Fresh,USA,Fresh Fruit,Distributor,fresh mango banana pomegranate grapes airfreight cartons,1000,20000,cartons airfreight,Phytosanitary certificate; USDA treatment
+B008,Greenline Produce,USA,Vegetables,Wholesaler,fresh onion potato okra bitter gourd green chilli,2000,25000,crates sacks,Phytosanitary certificate
+B009,Delta Grain Imports,USA,Rice,Importer,basmati rice long grain steam sella parboiled,5000,100000,25 kg 50 kg bags,FDA registered; lab report
+B010,Americas Nut Traders,USA,Nuts,Distributor,cashew kernels groundnut almond pistachio roasted raw,1000,30000,vacuum tins cartons,FDA registered; aflatoxin report
+B011,Prairie Flour Mills,USA,Cereals and Flour,Manufacturer,wheat flour atta millet semolina besan maize,5000,80000,50 kg bags,FDA registered
+B012,Lotus Pulses Inc,USA,Pulses,Importer,chickpea toor dal moong urad masoor lentils,5000,60000,50 kg bags,FDA registered; phytosanitary certificate
